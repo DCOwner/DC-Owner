@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/dcowner/HemantSachdeva/master/dcowner.svg" alt="DC Owner" />
+  <img src="https://raw.githubusercontent.com/dcowner/dcowner/master/dcowner.svg" alt="DCOwner" />
 </h1>
 
 ### [![My github stats](https://github-readme-stats.vercel.app/api?username=dcowner&count_private=true&show_icons=true&theme=vision-friendly-dark)](https://www.github.com/dcowner?tab=repositories)
