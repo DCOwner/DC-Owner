@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm DC | [![Profile Views](https://gpvc.arturio.dev/dcowner)](https://github.com/dcowner)
 
 <p align="center">
-  <a href="https://t.me/DisneyCinemas"><img src="https://telegra.ph/file/82a3f2e0f6e6c96d3c3ce.mp4"></a>
+  <a href="https://t.me/DisneyCinemas"><img src="https://github.com/dcowner/DC-Owner/blob/main/Resources/Spidey.gif"></a>
     </p>
 <p align="center">
     <img
